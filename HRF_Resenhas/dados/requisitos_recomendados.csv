@@ -1,0 +1,11 @@
+cod_jogo;os;cpu;ram;hdd;video;directx;rede
+1;Windows 10 (64-bits);Core i7-4790 / AMD FX-8350 ou superior;16 GB de RAM;50 GB de espaço disponível;NVIDIA GeForce GTX 1060 3GB/ AMD Radeon RX 480 4GB ou superior;11.0 ou superior, compatível com a placa de vídeo;
+2;Windows 7/8/8.1/10 64-bit;Intel Core i5-6600 ou equivalente;16 GB; 45 GB;Nvidia Geforce GTX 1060 6GB, AMD Radeon RX 480 8GB;DX11;512 Kbps ou mais
+3; Windows 7 / 8.1 / 10 (64-bits); Intel Core i7-3770 / AMD FX-8350 ou superior;8 GB de RAM;55 GB de espaço disponível;NVIDIA GTX 970 4GB / AMD Radeon R9 290 4GB ou superior;;
+4;Windows® Vista / Windows® 7 / Windows® 8 / Windows® 10 64-bits (Service Pack atual);Intel® Core™ i5, AMD Phenom™ II X3 ou melhor;6 GB RAM;5 GB disponível no disco rígido;NVIDIA® GeForce® GTX 660, AMD Radeon™ HD 7950 ou melhor;; Conexão banda larga com a internet
+5;Windows 10 Anniversary Edition, versão ou posterior;Intel Core i5-3570k 3.4 Ghz ou equivalente da AMD; 12 GB; 40 GB;GeForce 970;DirectX 12;
+6;Windows 7 64; Pentium Dual Core E6600 3.06GHz ou Phenom 8750 Triple-Core+;4 GB;7.6 GB;GeForce GT 545 DDR3, Radeon HD 5670 512MB ou equivalente.;V. 9;
+7;Windows 7 64-Bit ou mais recente; Intel® Core™ i5-2400 ouAMD Ryzen R5 1600X;12 GB RAM;90 GB;NVIDIA® GeForce® GTX 970 / GTX 1060 @ 6GB ou AMD Radeon™ R9 390 / AMD RX 580;Compatível com versão 11.0;Ligação de banda larga
+8;Windows XP ou superior;Pentium 4 3 Ghz ou Athlon 3000+; 1 Gb;1.5 GB;Geforce 6600/Radeon X600;;
+9;Windows XP, Windows Vista, Windows 7;Intel Core 2 Duo E6-série / Athlon64 X2 6400+ ou superior;2 GB;10 GB de espaço livre no disco rígido;GeForce9600GT 512MB / AMD Radeon HD 4830 de 512 MB;;
+10;Windows 8.1 64-bit / Windows 10 64-bit (sistemas 32-bit não são compatíveis);Intel Core i5-2400, i5 7400, ou Ryzen R5 1600X;8 GB;50 GB;GeForce GTX 970 4GB, GTX 1060 6GB, ou R9 390 8GB;DirectX 11;

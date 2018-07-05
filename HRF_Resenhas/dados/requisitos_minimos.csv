@@ -1,0 +1,11 @@
+cod_jogo;os;cpu;ram;video;hdd;directx
+1;Windows 7 / 8.1 / 10 (64-bits);Core i5-6600K / AMD FX-6350 ou superior;8GB;NVIDIA GeForce GTX 660 2GB/ AMD Radeon HD 7850 ou superior;50 GB de espaço disponível;11.0 ou superior, compatível com a placa de vídeo
+2;Win 7/8/8.1/10 64-bit;Intel Core i3-3600t ou equivalente;8GB;Nvidia Geforce GTX 660 2GB, AMD Radeon HD 7850 2GB;45 GB;11.0 ou superior 
+3;Windows 7 / 8.1 / 10 (64-bits);Intel Core i5-2400 / AMD FX-8320 ou superior;8GB;NVIDIA GTX 670 2GB / AMD Radeon HD 7870 2GB ou superior;55 GB de espaço disponível;
+4;Windows Vista® / Windows® 7 / Windows® 8 /Windows® 10 64-bit (Service Pack atual);Intel® Core™ i3 ou AMD Phenom™ X3 865;4GB;NVIDIA® GeForce® GTX 460, ATI Radeon™ HD 4850, ou Intel® HD Graphics 4400;5 GB disponível no disco rígido;
+5;Windows 10 Anniversary Edition, versão 1607 ou posterior;Intel Core i5 2.3 Ghz ou equivalente da AMD;8 GB;GeForce 650 Ti;45 GB;DirectX 12
+6;Windows XP 32;Pentium Dual Core E2140 1.60GHz ou Athlon 64 X2 Dual Core 3600+;2GB;GeForce GT 520, Radeon HD 6480G ou equivalente.; 5 GB;9.0 ou superior
+7;Windows 7 64-Bit ou mais recente;Intel® Core™ i3 3225 3.3 GHz ou AMD Ryzen™ 5 1400;8 GB;NVIDIA® GeForce® GTX 660 @ 2 GB / GTX 1050 ou ATI® Radeon™ HD 7850 @ 2GB / AMD RX 550;90GB;Compatível com versão 11.0
+8;Windows XP ou superior;Pentium 4 2.4 Ghz ou Athlon 2500+;2GB;Geforce 5700/Radeon 9600;1.5GB;0;
+9;Windows XP, Windows Vista, Windows 7;Intel / AMD dual-core de 2,0 GHz;1GB (1,5 GB para o Vista / 7);GeForce8600 GT 256MB / ATI (AMD) Radeon X1950 256 MB;10 GB de espaço livre no disco rígido;
+10;Windows 7 64-bit / Windows 8.1 64-bit / Windows 10 64-bit (sistemas 32-bit não são compatíveis);Intel Core i3-3250, Intel Pentium G4560, ou AMD FX-4350;6GB;GeForce GTX 660 2GB, GTX 1050 2GB, ou Radeon HD 7850;68GB;DirectX 11
